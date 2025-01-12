@@ -1,0 +1,38 @@
+
+body {
+    font-family: "Roboto", sans-serif !important; 
+  font-weight: 500 !important;
+  font-style: normal !important;
+  background-color: #ff4c68 !important;
+}
+.DogSocial{
+    font-weight: 700;
+    font-size: 24px;
+    text-decoration:none;
+    color: white;
+}
+
+.a{
+    
+   text-decoration:none;
+   color: rgba(255, 255, 255, 0.568);
+}
+
+li{
+    list-style: none;
+}
+
+nav{
+    margin: 40px auto;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+#Navbar-menu ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    margin: 20px;
+}

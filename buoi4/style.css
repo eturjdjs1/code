@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: white;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.pr {
+    background-color: white;
+    border-radius: 8px;
+    width: 250px;
+    margin: 10px;
+    border: 1px solid white;
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.b {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.inf {
+    padding: 15px;
+}
+
+.inf h2 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.inf p {
+    margin: 5px 0;
+    color: black;
+}

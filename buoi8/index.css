@@ -1,0 +1,18 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+#for-h1{
+    display: flex;
+    justify-content: center;
+}
+#bothofrow{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#buttonlogin{
+    display: flex;
+    justify-content: center;
+}
